@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index"
   },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "author": "",
   "license": "ISC"
+
 }
